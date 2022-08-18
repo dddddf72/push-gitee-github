@@ -1,0 +1,7 @@
+用内网实现
+giteetogithub和push-gitee-github
+同步
+
+https://gitee.com/dingmochou/giteetogithub
+https://github.com/dingmochou/push-gitee-github
+
